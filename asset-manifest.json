@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/UltimateCurrency/static/css/main.368bdd2b.chunk.css",
+    "main.js": "/UltimateCurrency/static/js/main.1acf33bc.chunk.js",
+    "main.js.map": "/UltimateCurrency/static/js/main.1acf33bc.chunk.js.map",
+    "runtime-main.js": "/UltimateCurrency/static/js/runtime-main.0f868abb.js",
+    "runtime-main.js.map": "/UltimateCurrency/static/js/runtime-main.0f868abb.js.map",
+    "static/css/2.966d247e.chunk.css": "/UltimateCurrency/static/css/2.966d247e.chunk.css",
+    "static/js/2.0413d9d1.chunk.js": "/UltimateCurrency/static/js/2.0413d9d1.chunk.js",
+    "static/js/2.0413d9d1.chunk.js.map": "/UltimateCurrency/static/js/2.0413d9d1.chunk.js.map",
+    "static/js/3.3f3dea97.chunk.js": "/UltimateCurrency/static/js/3.3f3dea97.chunk.js",
+    "static/js/3.3f3dea97.chunk.js.map": "/UltimateCurrency/static/js/3.3f3dea97.chunk.js.map",
+    "index.html": "/UltimateCurrency/index.html",
+    "static/css/2.966d247e.chunk.css.map": "/UltimateCurrency/static/css/2.966d247e.chunk.css.map",
+    "static/css/main.368bdd2b.chunk.css.map": "/UltimateCurrency/static/css/main.368bdd2b.chunk.css.map",
+    "static/js/2.0413d9d1.chunk.js.LICENSE.txt": "/UltimateCurrency/static/js/2.0413d9d1.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/UltimateCurrency/static/media/Poppins-Medium.88233218.woff",
+    "static/media/RenoMono.8b239c68.otf": "/UltimateCurrency/static/media/RenoMono.8b239c68.otf",
+    "static/media/index.less": "/UltimateCurrency/static/media/index.2979fe4b.less",
+    "static/media/upheavtt.e3d365ba.ttf": "/UltimateCurrency/static/media/upheavtt.e3d365ba.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f868abb.js",
+    "static/css/2.966d247e.chunk.css",
+    "static/js/2.0413d9d1.chunk.js",
+    "static/css/main.368bdd2b.chunk.css",
+    "static/js/main.1acf33bc.chunk.js"
+  ]
+}

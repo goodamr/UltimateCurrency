@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x9b896c71810c6da711e46640751b1961c2f8c0d2",
+  "SCAN_LINK": "https://etherscan.io/address/0x9b896c71810c6da711e46640751b1961c2f8c0d2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Ultimate Currency",
+  "SYMBOL": "TIME",
+  "MAX_SUPPLY": 50000,
+  "DISPLAY_COST": 0.003,
+  "WEI_COST": 3000000000000000,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 30,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ultimate-currency",
+  "Etherscan": "https://etherscan.io/address/0x9b896c71810c6da711e46640751b1961c2f8c0d2",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/UltimateC_NFT",
+  "SHOW_BACKGROUND": false
+}
